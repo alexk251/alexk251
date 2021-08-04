@@ -76,16 +76,6 @@ I love treating each line of code like a measure of music in a symphony.</div>
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alexk251&&style=flat-square" align="center" />
 </div>  
