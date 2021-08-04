@@ -44,12 +44,6 @@ I love treating each line of code like a measure of music in a symphony.</div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
