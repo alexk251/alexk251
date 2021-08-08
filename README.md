@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’m a full-stack developer who has who has used years of being a musician and working in technical customer service/ financial/ master data roles to transition into working in my dream profession of software engineering.
+### <div align="center">I’m a full-stack developer who has used years of being a musician and working in technical customer service/ financial/ master data roles to transition into working in my dream profession of software engineering.
 
 I love treating each line of code like a measure of music in a symphony.</div>  
   
