@@ -11,7 +11,7 @@ I love treating each line of code like a measure of music in a symphony.</div>
 - 🔭 I’m currently studying Data Structures and algorithms  
   
 
-- 🌱  I’m currently learning Java  
+- 🌱  I’m currently learning C# and .net 
   
 
 - ❓ Ask me about anything related to Music and Coding  
